@@ -51,5 +51,4 @@ Os resultados deste projeto incluem:
 - **Visualização e Interpretação dos Clusters**: Gráficos gerados com Seaborn e Matplotlib oferecem uma análise visual dos clusters, destacando diferentes perfis de clientes, que podem ser utilizados para campanhas de marketing direcionadas e personalizadas.
 
 ## Contato
-
-Para dúvidas ou sugestões sobre o projeto, entre em contato por [vitor13muniz09@gmail.com](mailto:vitor13muniz09@gmail.com).
+Se você tiver dúvidas ou sugestões, entre em contato por [vitttormuniz@gmail.com](mailto:vitttormuniz@gmail.com).
